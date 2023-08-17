@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1cc928ceb5cfd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gros connard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this is the.md",
+                "file": "Gros connard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "this is the.md",
+                "file": "Gros connard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "this is the.md"
+                "file": "Gros connard.md"
               }
             }
           },
@@ -163,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7597894fc4ad3492",
+  "active": "b1cc928ceb5cfd8a",
   "lastOpenFiles": [
-    "this is the.md"
+    "this is the.md",
+    "Gros connard.md"
   ]
 }
