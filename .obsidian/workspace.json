@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DO List for DM.md",
+                "file": "TO-DO List for Player.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DO List for DM.md",
+                "file": "TO-DO List for Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DO List for DM.md",
+                "file": "TO-DO List for Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DO List for DM.md"
+                "file": "TO-DO List for Player.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "955fadfc29bafbc2",
   "lastOpenFiles": [
-    "TO-DO List for Player.md",
     "TO-DO List for DM.md",
+    "TO-DO List for Player.md",
     "DM Notes/Sam's character/Sam's character.md",
     "DM Notes/Sam's character/Bul Seung.md",
     "DM Notes/Sam's character/Bul Seung 1.png",
