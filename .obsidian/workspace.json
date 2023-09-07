@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a49574883779a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO List for Player.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Sam's character/Sam's answers.md",
+                "file": "TO-DO List for Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Sam's character/Sam's answers.md",
+                "file": "TO-DO List for Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sam's character/Sam's answers.md"
+                "file": "TO-DO List for Player.md"
               }
             }
           },
@@ -154,13 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f16924f11babbe",
+  "active": "9a49574883779a4c",
   "lastOpenFiles": [
+    "TO-DO List for DM.md",
+    "conflict-files-obsidian-git.md",
+    "DM Notes/Sam's character/Sam's answers.md",
+    "TO-DO List for Player.md",
     "DM Notes/Sam's character/Tami.md",
     "DM Notes/Sam's character/Sam's character.md",
     "DM Notes/Sam's character/Bul Seung.md",
     "DM Notes/Sam's character/Bul Seung 1.png",
-    "DM Notes/Sam's character/Sam's answers.md",
     "README.md",
     "DM Notes/Sam's character/Yoona.md",
     "DM Notes/Practical/Character questions.md",
@@ -180,8 +196,6 @@
     "DM Notes/The Calendar/The Moon of the Orchard.md",
     "DM Notes/The Calendar/The Moon of the Lion.md",
     "DM Notes/The Calendar/The Moon of Obsidian.md",
-    "DM Notes/The Calendar/The Howling Moon.md",
-    "DM Notes/The Calendar/The Cursed Moon.md",
     "DM Notes/The Calendar/Days of the week",
     "DM Notes/The Calendar",
     "DM Notes/Sam's character",

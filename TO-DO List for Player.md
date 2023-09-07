@@ -1,3 +1,8 @@
+---
+
+---
+
+
 - [ ] Establish a name for [[Sam's character]]
 - [ ] Establish some characters around you
 	- [ ] How does [[Tami]] act
