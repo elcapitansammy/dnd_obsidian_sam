@@ -60,3 +60,9 @@ Can fit 2 whole oranges in his mouth and can do ventriloquism.
 **19. How does your show affection for friends, people they respect, romantic interests, and people they want to protect?**
 
 **20. What is your good at hiding about themselves? What are they bad at hiding?**
+
+
+-----------------------------------------------------------------------
+How does tami acts?
+
+Tami does not really trust anybody excepts bul, she s very cautious and tries to always find the easiest path to any situation. She's wise but in a very lazy way. 
