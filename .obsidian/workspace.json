@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sam's character/Sam's answers.md",
+                "file": "DM Notes/Sam's character/Sam's character.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a49574883779a4c",
+            "id": "6df14e61c49fa899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO List for Player.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "955fadfc29bafbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,41 +183,12 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "TO-DO List for DM.md",
-    "DM Notes/Sam's character/Sam's answers.md",
+    "README.md",
     "TO-DO List for Player.md",
-    "DM Notes/Sam's character/Tami.md",
     "DM Notes/Sam's character/Sam's character.md",
     "DM Notes/Sam's character/Bul Seung.md",
     "DM Notes/Sam's character/Bul Seung 1.png",
-    "README.md",
-    "DM Notes/Sam's character/Yoona.md",
-    "DM Notes/Practical/Character questions.md",
-    "DM Notes/The Calendar/Days of the week/Snake day.md",
-    "DM Notes/The Calendar/Days of the week/Monkey day.md",
-    "DM Notes/The Calendar/Days of the week/Pig day.md",
-    "DM Notes/The Calendar/Days of the week/Horse day.md",
-    "DM Notes/The Calendar/Days of the week/Goat day.md",
-    "DM Notes/The Calendar/Days of the week/Dragon day.md",
-    "DM Notes/The Calendar/Days of the week/Dog day.md",
-    "DM Notes/The Calendar/Days of the week/Days of the week.md",
-    "DM Notes/The Calendar/The Quantum Moon.md",
-    "DM Notes/The Calendar/The Moon of the Waves.md",
-    "DM Notes/The Calendar/The Moon of the Tree.md",
-    "DM Notes/The Calendar/The Moon of the Stone Forest.md",
-    "DM Notes/The Calendar/The Moon of the Plains.md",
-    "DM Notes/The Calendar/The Moon of the Orchard.md",
-    "DM Notes/The Calendar/The Moon of the Lion.md",
-    "DM Notes/The Calendar/The Moon of Obsidian.md",
-    "DM Notes/The Calendar/Days of the week",
-    "DM Notes/The Calendar",
-    "DM Notes/Sam's character",
-    "DM Notes/Practical",
-    "DM Notes/NPC/Indian Outfit 1.png",
-    "DM Notes/NPC",
-    "DM Notes/Mechanics/Ki/Elemental Ki",
-    "DM Notes/Mechanics/Spirits",
-    "DM Notes/Mechanics/Ki",
-    "DM Notes/Mechanics",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar"
+    "this is the.md",
+    "Gros connard.md"
   ]
 }
