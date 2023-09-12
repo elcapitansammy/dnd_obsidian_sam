@@ -16,7 +16,7 @@ Clerk is half-orc with with one tusk as the other one is chipped off. the hair i
 ![[Indian Outfit 1.png|300]]
 
 
-He is [[Sam's character]]'s informant where he gets most of his best paid shady jobs from.
+He is [[Jong-min Bul]]'s informant where he gets most of his best paid shady jobs from.
 
 
 [[Kawana Te Nahu]] will always ask "What can I do for you today?"

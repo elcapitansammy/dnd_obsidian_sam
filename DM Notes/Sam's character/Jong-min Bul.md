@@ -4,6 +4,8 @@ country: Hwaorang, Vriksha Rajya
 playedBy: Samuele Gentili, Sam
 thread: Brother, Organised Crime
 ---
+1. 종민 (Jong-min) - "wise and quick-witted"
+
 
 #PC
 
@@ -21,10 +23,10 @@ Question: What did you learn already from the cat?
 
 Household moves from [[Hwaorang]] to [[Vriksha Rajya]], specifically [[Chandrakona]]
 
-[[Sam's character]] finds weird markings on the body of the brother.
+[[Jong-min Bul]] finds weird markings on the body of the brother.
 The cat is purple and female.
 The Cat is called [[Tami]]
-The cat can transform into [[Sam's character]].
+The cat can transform into [[Jong-min Bul]].
 
 His ex is called [[Yoona]].
 
