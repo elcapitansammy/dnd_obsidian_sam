@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sam's character/Jong-min Bul.md",
+                "file": "DM Notes/Sam's character/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Sam's character/Jong-min Bul.md",
+                "file": "DM Notes/Sam's character/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Sam's character/Jong-min Bul.md",
+                "file": "DM Notes/Sam's character/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sam's character/Jong-min Bul.md"
+                "file": "DM Notes/Sam's character/Notes.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "f6f8ffe1d8aa2903",
   "lastOpenFiles": [
+    "DM Notes/Sam's character/Jong-min Bul.md",
+    "DM Notes/Sam's character/Notes.md",
     "DM Notes/Sam's character/Sam's answers.md",
     "DM Notes/Sam's character/Tami.md",
-    "DM Notes/Sam's character/Jong-min Bul.md",
     "DM Notes/Sam's character/Bul Seung.md",
     "conflict-files-obsidian-git.md",
     "Gaja.md",
@@ -227,7 +228,6 @@
     "DM Notes/The Calendar/The Moon of the Tree.md",
     "DM Notes/The Calendar/The Moon of the Stone Forest.md",
     "DM Notes/The Calendar/The Moon of the Plains.md",
-    "DM Notes/The Calendar/The Moon of the Orchard.md",
     "DM Notes/The Calendar/Days of the week",
     "DM Notes/The Calendar",
     "DM Notes/Sam's character",
