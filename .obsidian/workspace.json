@@ -52,9 +52,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0eab2a0dd0dab68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO List for Player.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8e870d22ddfc661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Sam's character/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4f741eb265771d22",
@@ -199,7 +224,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f8ffe1d8aa2903",
+  "active": "d8e870d22ddfc661",
   "lastOpenFiles": [
     "DM Notes/Sam's character/Jong-min Bul.md",
     "DM Notes/Sam's character/Notes.md",

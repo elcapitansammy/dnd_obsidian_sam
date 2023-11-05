@@ -25,3 +25,17 @@ expenses: 5  per tube 10 gold per volunteer
 has been helping the people in the slums
 
 the howling moon is a beautiful book that should be read - says the random woman with the sign of my brother. 
+
+
+First session 0: 
+
+Vriksha Rajya -land of the tree
+1st day moon of the tree, party ->festival of colour
+54.9 gold currently, i bought pumpkin flour and sugar. 
+ester - bird person, vika s character has a little lemming called pebble looks like a rock
+tommy -old guy in his fourties 
+erhi - cute little witch elf, zhini s character 
+Occi - young human, latino guy ponytail and mullet. yellow eyes and little beard bastian's character
+forgor -looks like sam with ponytail but disgusting dom's character 
+gagan tsudaran - went to the horse racing after the battle 
+
