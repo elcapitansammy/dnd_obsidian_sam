@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sam's character/Sam's answers.md",
+                "file": "DM Notes/Sam's character/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,55 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d88955c5a1bfaf6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "f6f8ffe1d8aa2903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Sam's character/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0eab2a0dd0dab68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DO List for Player.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8e870d22ddfc661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Sam's character/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e870d22ddfc661",
+  "active": "11cada36798655c7",
   "lastOpenFiles": [
+    "DM Notes/Sam's character/Sam's answers.md",
+    "TO-DO List for Player.md",
     "DM Notes/Sam's character/Jong-min Bul.md",
     "DM Notes/Sam's character/Notes.md",
-    "DM Notes/Sam's character/Sam's answers.md",
     "DM Notes/Sam's character/Tami.md",
     "DM Notes/Sam's character/Bul Seung.md",
     "conflict-files-obsidian-git.md",
     "Gaja.md",
     "TO-DO List for DM.md",
-    "TO-DO List for Player.md",
     "DM Notes/Sam's character/Sam's character.md",
     "DM Notes/Sam's character/Bul Seung 1.png",
     "README.md",

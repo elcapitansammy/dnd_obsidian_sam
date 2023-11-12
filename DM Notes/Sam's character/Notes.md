@@ -2,7 +2,7 @@
 kawana tenahou - book store dude
 aainaye - my skeleton partner 
 yaj kumar - guy that works in the archieve in the office 
-festival of colors the first day of the moon of the tree 
+festival of colours the first day of the moon of the tree 
 
 mulani: the in of the root in the entertainement 3242
 food and loging - owner ramesh 
@@ -27,11 +27,11 @@ has been helping the people in the slums
 the howling moon is a beautiful book that should be read - says the random woman with the sign of my brother. 
 
 
-First session 0: 
+First session 1: 
 
 Vriksha Rajya -land of the tree
 1st day moon of the tree, party ->festival of colour
-54.9 gold currently, i bought pumpkin flour and sugar. 
+54 gold currently, i bought pumpkin flour and sugar. 
 ester - bird person, vika s character has a little lemming called pebble looks like a rock
 tommy -old guy in his fourties 
 erhi - cute little witch elf, zhini s character 
@@ -39,3 +39,42 @@ Occi - young human, latino guy ponytail and mullet. yellow eyes and little beard
 forgor -looks like sam with ponytail but disgusting dom's character 
 gagan tsudaran - went to the horse racing after the battle 
 
+Session 2: 
+
+i bought info for occi, 54 golds remaining.
+- temok painter comes from the same city as occi ---> looking for him 
+
+jong se gallery -> art gallery in the artisanal district
+laxhmi -> girl from anaeye
+crimson mist, the viper ---> researched people in the city/country 
+we go to the horse race: horse with teams -> rabbit, ox (cow), tiger, rat
+44 golds -> spent on the 9 golds on 1.5, 1 gold on 5
+we meet yaj kumar -> rich bitch
+
+-> asks us to find the swords stolen from the monkey which went to el maghreb el mafir.
+
+info on the swords: very old swords -> power of creating water 
+
+-> 98 golds 
+
+mission: take back the swords, leave the monkey alive ( very important) -> 
+monkey guy -> suspected to be a zodiac 
+there 7 active zodiacs. 
+dragon, lives around yamano
+snake, lives the middle sea 
+horse, owned by leaders in kuno
+goat, disappeared -> 10 years
+monkey -> the one we are looking for. ->  el maghreb el mafir
+dog, disappeared -> 1000 years 
+pig, disappeared -> 10 years 
+
+->96 golds ->gives 15 to mom -> 81 golds 
+
+pays for the misson -> 80 golds, 9 silvers, 2 copper
+
+
+sidemission: the mansion behind the bookstore -> mahagony mayas milling mansion --> has been harvesting wood from an illegal place (people are not allowed there but they go because they have cool trees)
+- the mission : collect the hush money, figure out what s going on ( there are some strange things happening in the illegal woods (people have been missing also the guards have been missing))
+- an illegal animal has been seen or sth like that 
+
+I accept the money for information about the mysterious lady. 
