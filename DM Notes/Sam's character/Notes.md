@@ -77,4 +77,35 @@ sidemission: the mansion behind the bookstore -> mahagony mayas milling mansion 
 - the mission : collect the hush money, figure out what s going on ( there are some strange things happening in the illegal woods (people have been missing also the guards have been missing))
 - an illegal animal has been seen or sth like that 
 
-I accept the money for information about the mysterious lady. 
+I accept the money for information about the mysterious lady.
+
+
+session 3: 
+
+we go to the milling house and beg the owner, maya to give us the money and to give the mission. The milling house is using illegal woods. 
+
+- interview the guy that went to the last expedition, saw a dragon that has a bit of frogs feature. lost an arm (pedtrified edges around the missing arm) 
+
+- we buy provisions to go for the trip, the forest is a five days travel form the the pizza city. 
+
+session 4:
+
+We killed two of the dwarves and one ran. The red lady surrendered. eabha killed the lady -> when she was defenseless. 
+
+-> during the fight: - aenaye used her neckless to stop her - 
+
+
+the howling moon:
+-> about the country of wabonoki, talks about a boy, young man -> after scaffold with law, after fight with parents goes to the woods -> untrespassable
+
+fuck it -> he finds himself eye to eye with a wolf, escapes, uses instincts to run with a few blessures -> gets home, sleeps, feels urge to eat , kill 
+
+---> just a werewolf story for now 
+
+-> elaborate how the story was a dream and he s in denial 
+nothing happens until -> one night he wakes and discover he s a werewolf -> goes far and forget everything ... find himself next to two deers.
+
+next days: 
+everything went fine -> strange ecounter with space panther that can control space and time -> my character was sleeping the whole time. 
+
+
