@@ -33,7 +33,7 @@ Vriksha Rajya -land of the tree
 1st day moon of the tree, party ->festival of colour
 54 gold currently, i bought pumpkin flour and sugar. 
 ester - bird person, vika s character has a little lemming called pebble looks like a rock
-tommy -old guy in his fourties 
+tommy -old guy in his fourties -> from wabanaki 
 erhi - cute little witch elf, zhini s character 
 Occi - young human, latino guy ponytail and mullet. yellow eyes and little beard bastian's character
 forgor -looks like sam with ponytail but disgusting dom's character 
@@ -107,5 +107,63 @@ nothing happens until -> one night he wakes and discover he s a werewolf -> goes
 
 next days: 
 everything went fine -> strange ecounter with space panther that can control space and time -> my character was sleeping the whole time. 
+
+
+session 5: 
+howling moon:  
+story: werwolf who tries to fit in society 
+end: slow decline of his metnal health. starting killing everyone from one insult. 
+
+poems on the back of the book:-> important from the lady from the bookstory 
+between friends and foes 
+lies a wobbly rusty bridge, 
+a reason to kill
+
+between foes and friends
+lies a bridge to make amends, 
+a reason to live 
+
+-> from history check: knocking presence in my mind. 
+
+1 gold and 8 copper -> for talking to kawana tenahou
+
+
+notes for occi: 
+1:
+the city that you went to the split city instead of north -> go west there is another city
+-> west of split city there is another city ( mayapour) . The guy is a painter. temok was mentoring the guy from gallery.
+
+2:
+the akkara empire has been discovered 2 years ago -> they communicated -> they seem not very welcoming -> they are a handful of powerful soldiers ( helmets with feathers in the back )
+not many people live there - looks easy to infiltrate -> no one has tried yet or succeeded. 
+
+
+nakota oweyah -> mysterious lady 
+
+sy industry -> shang yiaou industries - waterfall industries 
+criminal organization situated in the emerald gate -> big city in xiang hua -> hong kong
+the Shang Yiaou family patreon -> the peak rules the family 
+- 4 capitans called dragons - power - military , soul-magic  , knowledge-intelligence gallery, red threat-> politics
+- The gates second - generals 
+- koi - soldiers 
+- riverman -> funding of the family 
+the are in a fight with two other powers. -> one is yi ling pah means 108
+royal seal -> the ancient leaders of xiang hua
+
+yi ling pah: 
+kawana tenahou tongue has the same seal as the letter with the void/0
+1, leader
+8,  -> sign that was on my brother chest when he died. 
+0, -> kawana 
+100
+-> the lady is also from the organization 
+
+
+guardian of greenstone -> toha aroha , famous history figure 
+-> start seeing visions of the guy -> used to live on the greenstone mountains but now went to tewai punamu -> they fought with the royal seal -> the emperor lost and the world went upside down. 
+
+The people have two black blades and are between here and the capital -> might try to kill us. 
+
+The viper -> dangerous assassin is from wabanaki -> he uses arrows and poison. has two fangs
 
 
