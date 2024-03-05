@@ -167,3 +167,12 @@ The people have two black blades and are between here and the capital -> might t
 The viper -> dangerous assassin is from wabanaki -> he uses arrows and poison. has two fangs
 
 
+session 9: 
+
+we are in mayapour -> we go talk to occi's cousin 
+
+ytti titty boobsies-> working with the 4 demons of faith( entities) to take the throne occi's dimension -> we go to the meeting -> one the road jumped by the sy industries clan 
+
+
+
+cat life  = 9 
