@@ -176,3 +176,23 @@ ytti titty boobsies-> working with the 4 demons of faith( entities) to take the 
 
 
 cat life  = 9 
+
+session 10:
+
+my brother resurected in a root way => tried to kill me -> i m kinda dead -> made peace with thomy 
+
+in three days =>masquerade of light
+the tailor shop -> jin shu fang 
+wood armory at 25 m high  
+
+session 11: 
+100 m high tree => we enter the tree 
+every level of the tree has different part. 
+
+the walls are super thick 5m-10m. In the middle of the tree there is a little tree 5m 10m  with a spiral. the little tree has no leaves. Glass platform on top -> around 50 m . 
+
+we arrive to the inn, ghunu guards and bird people to guard that inn. chan hoa guards in front of the other inn
+
+our inn has one one door that is guarded and there are two guards. one has the a pin of chandrakona 
+
+then we go to the haloki jadh bazaar 
